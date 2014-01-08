@@ -1,0 +1,9 @@
+Package: myPackage
+Type: Package
+Title: Performs mathematical analysis
+Version: 1.2
+Date: 2014-01-08
+Author: Rob Foy
+Maintainer: Rob Foy <raf51@cam.ac.uk>
+Description: The package, myPackage, performs essential mathematical analysis on numerical inputs
+License: GPL-2
